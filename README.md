@@ -1,5 +1,5 @@
 # **Dynamic Syntactic Representation Filtering and Injecting Networks for Cross-lingual Dependency Parsing**
-### **Accept to AAAI 2025**
+# **Accept to AAAI 2025**
 https://flamelunar.github.io
 
 ### Download our code. 
